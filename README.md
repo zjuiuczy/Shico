@@ -17,10 +17,9 @@ If you would like to modify ShiCo, read the developer manual [here](./docs/devel
 
 ## The downloading function I added
 Added the **Download** button to download the png files for the visualization and the **Download Vocabulary** button to download the csv file for the plain text vocabulary. For example, these are the downloaded files when using **young** as keyword:
-![Mock concept shift](./ShiCo-master/docs/mockConcept1.png)
-![Mock concept shift](./ShiCo-master/docs/mockConcept2.png)
-![Mock concept shift](./ShiCo-master/docs/mockConcept1.png)
-![Mock concept shift](./ShiCo-master/docs/mockConcept2.png)
+![vs1](./ShiCo-master/docs/vs1.png)
+![vs2](./ShiCo-master/docs/vs2.png)
+![vs3](./ShiCo-master/docs/vs3.png)
 
 ## Licensing
 
